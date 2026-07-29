@@ -33,21 +33,58 @@
 
 ## Featured Projects
 
-- **[SmartCR](https://github.com/mokashkumar1/SmartCR)** — Full-stack attendance manager with flexible student imports, low-attendance insights, backups, and PDF, PNG, and CSV exports. **[Live Demo](https://smartcr.vercel.app/)**
-- **[University Results Portal](https://github.com/mokashkumar1/muet-results-portal-opensource)** — Configurable GPA search and batch-ranking portal with serverless admin tools, Gemini OCR, GitHub-backed CSV storage, and static SEO generation.
-- **[Personal Portfolio](https://github.com/mokashkumar1/portfolio)** — Responsive portfolio for projects, experience, skills, and creative work, built with Next.js, TypeScript, and Framer Motion. **[Live Demo](https://mokashkumar.vercel.app/)**
-- **[Amanat](https://github.com/mokashkumar1/amanat)** — Transparency-first donation platform with direct payments, proof submission, organizer verification, and a public donation ledger.
-- **[Online Voting System](https://github.com/mokashkumar1/onlinevotingsystem)** — PHP election application with voter and admin workflows, candidate management, results, audit views, and CSRF protection.
-- **[Rickshaw Fare Predictor](https://github.com/mokashkumar1/rickshaw-fare-predictor)** — Interactive fare estimator backed by linear regression implemented from scratch with gradient descent. **[Live Demo](https://rickshaw-fare-predictor.vercel.app/)**
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| **SmartCR** | Full-stack attendance manager for class representatives and educators, with student imports, low-attendance insights, backups, and PDF/PNG/CSV exports. | `React 18` `Tailwind CSS` `Zustand` `Supabase` | [GitHub](https://github.com/mokashkumar1/SmartCR) · [Live](https://smartcr.vercel.app/) |
+| **University Results Portal — Open Source** | Configurable results portal with GPA search, batch rankings, serverless admin tools, Gemini-powered OCR, GitHub-backed CSV storage, and static SEO generation. | `JavaScript` `Node.js` `Gemini API` `Vercel` | [GitHub](https://github.com/mokashkumar1/muet-results-portal-opensource) |
+| **Personal Portfolio** | Dark, motion-rich portfolio presenting projects, experience, skills, and creative work through a responsive interface. | `Next.js 14` `TypeScript` `Tailwind CSS` `Framer Motion` | [GitHub](https://github.com/mokashkumar1/portfolio) · [Live](https://mokashkumar.vercel.app/) |
+| **Amanat** | Transparency-first donation platform with campaign creation, direct payments, proof submission, organizer verification, and a public donation ledger. | `HTML5` `CSS3` `JavaScript` `Supabase` | [GitHub](https://github.com/mokashkumar1/amanat) |
+| **Online Voting System** | PHP-based election application with voter and admin workflows, candidate management, results, audit views, session handling, and CSRF protection. | `PHP` `MySQL` `HTML5` `CSS3` | [GitHub](https://github.com/mokashkumar1/onlinevotingsystem) |
+| **Rickshaw Fare Predictor** | Interactive fare estimator backed by a linear-regression model implemented from scratch with gradient descent. | `Python` `NumPy` `Pandas` `HTML5` | [GitHub](https://github.com/mokashkumar1/rickshaw-fare-predictor) · [Live](https://rickshaw-fare-predictor.vercel.app/) |
 
 ## Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++, PHP, SQL, Dart
-- **Frontend:** React 18, Next.js, Tailwind CSS, HTML5, CSS3, Flutter
-- **Backend & Databases:** Node.js, REST APIs, Supabase, PostgreSQL, MySQL
-- **Data Science & ML:** NumPy, Pandas, Scikit-learn, linear regression, gradient descent, data cleaning, data visualization
-- **State Management:** Zustand, React Hooks, Context API
-- **Tools:** Git, GitHub, Vercel, VS Code, Figma, Tableau, Microsoft Excel
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C%2B%2B-1F2937?style=flat-square&logo=cplusplus&logoColor=659AD2)
+![PHP](https://img.shields.io/badge/PHP-1F2937?style=flat-square&logo=php&logoColor=8993BE)
+![Dart](https://img.shields.io/badge/Dart-1F2937?style=flat-square&logo=dart&logoColor=54C5F8)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=flat-square&logo=postgresql&logoColor=6DA9D2)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React_18-1F2937?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1F2937?style=flat-square&logo=nextdotjs&logoColor=E5E7EB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F2937?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/Flutter-1F2937?style=flat-square&logo=flutter&logoColor=54C5F8)
+
+**Backend, Databases & State**
+
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Supabase](https://img.shields.io/badge/Supabase-1F2937?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=6DA9D2)
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=4479A1)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=flat-square&logo=fastapi&logoColor=009688)
+![Zustand](https://img.shields.io/badge/Zustand-1F2937?style=flat-square&logo=react&logoColor=F59E0B)
+
+**Data Science, Analytics & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-1F2937?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-1F2937?style=flat-square&logo=pandas&logoColor=E70488)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1F2937?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Tableau](https://img.shields.io/badge/Tableau-1F2937?style=flat-square&logo=tableau&logoColor=4E79A7)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-1F2937?style=flat-square&logo=microsoftexcel&logoColor=21A366)
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=E5E7EB)
+![Vercel](https://img.shields.io/badge/Vercel-1F2937?style=flat-square&logo=vercel&logoColor=E5E7EB)
+![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=flat-square&logo=visualstudiocode&logoColor=23A8F2)
+![Figma](https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=F24E1E)
 
 ## Experience
 
@@ -65,6 +102,11 @@
 - **Side interests** — Neural models, automation pipelines, and advanced data structures and algorithms
 
 ## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mokashkumar1&theme=github_dark" alt="Mokash Kumar's GitHub stats and total commits" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=mokashkumar1&theme=github-dark-blue&hide_border=true" alt="Mokash Kumar's GitHub contribution streak" />
+</p>
 
 <p align="center">
   <picture>
