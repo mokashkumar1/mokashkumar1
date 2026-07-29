@@ -64,15 +64,18 @@
 - **Reading** — *The Art of Not Overthinking* and *Steal Like an Artist*
 - **Side interests** — Neural models, automation pipelines, and advanced data structures and algorithms
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mokashkumar1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Mokash Kumar's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokashkumar1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Mokash Kumar's top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mokashkumar1/mokashkumar1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mokashkumar1/mokashkumar1/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/mokashkumar1/mokashkumar1/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mokashkumar1&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Mokash Kumar's GitHub streak" />
+  <sub>Generated from my GitHub contribution history and refreshed daily.</sub>
 </p>
 
 ## Connect
