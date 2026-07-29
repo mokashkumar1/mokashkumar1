@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Mokash Kumar — Aspiring AI Engineer</title>
+  <desc id="desc">Developer profile card for Mokash Kumar, a Computer Systems Engineering undergraduate at MUET.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0891b2"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.1" cy="0.1" r="1">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity=".14"/>
+      <stop offset=".55" stop-color="#8b5cf6" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#f6f8fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="388" rx="24" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="386" rx="23" fill="url(#glow)"/>
+
+  <circle cx="32" cy="28" r="6" fill="#cf222e"/>
+  <circle cx="52" cy="28" r="6" fill="#bf8700"/>
+  <circle cx="72" cy="28" r="6" fill="#1a7f37"/>
+  <text x="600" y="34" text-anchor="middle" fill="#57606a" font-family="Consolas, monospace" font-size="14">mokash@github — profile</text>
+
+  <line x1="360" y1="76" x2="360" y2="328" stroke="#d0d7de"/>
+
+  <text x="62" y="174" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="112" font-weight="800" letter-spacing="-8">MK.</text>
+  <text x="66" y="213" fill="#24292f" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">WHERE LOGIC MEETS CREATIVITY</text>
+  <text x="66" y="244" fill="#57606a" font-family="Consolas, monospace" font-size="16">full-stack · machine learning · visual stories</text>
+
+  <rect x="66" y="275" width="240" height="34" rx="17" fill="#dafbe1" stroke="#1a7f37"/>
+  <circle cx="85" cy="292" r="5" fill="#1a7f37"/>
+  <text x="99" y="298" fill="#116329" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">OPEN TO INTERNSHIPS</text>
+
+  <text x="405" y="112" fill="#24292f" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="750">Mokash Kumar</text>
+  <text x="405" y="146" fill="#0969da" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Aspiring AI Engineer · CSE Undergraduate @ MUET</text>
+
+  <text x="405" y="194" fill="#953800" font-family="Consolas, monospace" font-size="16">location</text>
+  <text x="520" y="194" fill="#8c959f" font-family="Consolas, monospace" font-size="16">→</text>
+  <text x="548" y="194" fill="#24292f" font-family="Consolas, monospace" font-size="16">Hyderabad, Sindh, Pakistan</text>
+
+  <text x="405" y="230" fill="#953800" font-family="Consolas, monospace" font-size="16">building</text>
+  <text x="520" y="230" fill="#8c959f" font-family="Consolas, monospace" font-size="16">→</text>
+  <text x="548" y="230" fill="#24292f" font-family="Consolas, monospace" font-size="16">SmartCR &amp; practical data products</text>
+
+  <text x="405" y="266" fill="#953800" font-family="Consolas, monospace" font-size="16">learning</text>
+  <text x="520" y="266" fill="#8c959f" font-family="Consolas, monospace" font-size="16">→</text>
+  <text x="548" y="266" fill="#24292f" font-family="Consolas, monospace" font-size="16">AI pipelines · DSA in Java · Flutter</text>
+
+  <text x="405" y="302" fill="#953800" font-family="Consolas, monospace" font-size="16">offscreen</text>
+  <text x="520" y="302" fill="#8c959f" font-family="Consolas, monospace" font-size="16">→</text>
+  <text x="548" y="302" fill="#24292f" font-family="Consolas, monospace" font-size="16">video · audio · photography · books</text>
+
+  <line x1="66" y1="342" x2="1134" y2="342" stroke="#d0d7de"/>
+  <text x="66" y="369" fill="#57606a" font-family="Consolas, monospace" font-size="14">Python</text>
+  <text x="146" y="369" fill="#d0d7de" font-family="Consolas, monospace" font-size="14">/</text>
+  <text x="166" y="369" fill="#57606a" font-family="Consolas, monospace" font-size="14">TypeScript</text>
+  <text x="278" y="369" fill="#d0d7de" font-family="Consolas, monospace" font-size="14">/</text>
+  <text x="298" y="369" fill="#57606a" font-family="Consolas, monospace" font-size="14">React</text>
+  <text x="360" y="369" fill="#d0d7de" font-family="Consolas, monospace" font-size="14">/</text>
+  <text x="380" y="369" fill="#57606a" font-family="Consolas, monospace" font-size="14">Supabase</text>
+  <text x="472" y="369" fill="#d0d7de" font-family="Consolas, monospace" font-size="14">/</text>
+  <text x="492" y="369" fill="#57606a" font-family="Consolas, monospace" font-size="14">Machine Learning</text>
+  <text x="1134" y="369" text-anchor="end" fill="#0969da" font-family="Consolas, monospace" font-size="14">mokashkumar1</text>
+</svg>
